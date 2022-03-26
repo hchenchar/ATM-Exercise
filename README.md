@@ -1,7 +1,7 @@
 # ATM-Exercise
 Description of Project: This project models functions of an ATM machine through refactoring UI and React components to be more user-friendly. It also creates additional functionality by denying the user the ability to withdraw an amount that totals more than the total of the account balance.
 
-How to Run: Clone this repository to your local machine, then open a command line on your computer terminal and run the command "cd path-to-project-root (the directory where the cloned repository is located on your local machine). From there, run "npm install http-server" and once complete, run "http-server -c-1". Lastly, open your web browser and load: http://127.0.0.1:8080. Once the ATM page loads, you can click on each todo item to clear it off of the list.
+How to Run: Clone this repository to your local machine, then open a command line on your computer terminal and run the command "cd path-to-project-root (the directory where the cloned repository is located on your local machine). From there, run "npm install http-server" and once complete, run "http-server -c-1". Lastly, open your web browser and load: http://127.0.0.1:8080. Once the ATM page loads, you can selection an action to continue and proceed to interact with the ATM.
 
 Roadmap of Future Improvements: Looking ahead, I would like to add user message prompts that alert the user when the account balance is overdrawn to lead to insufficient funds.
 
